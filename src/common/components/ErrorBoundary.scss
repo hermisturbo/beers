@@ -1,0 +1,23 @@
+@import "../colors.scss";
+
+.common__error-boundary {
+  display: grid;
+  justify-content: center;
+  background-color: $white;
+
+  &__title {
+    color: red;
+    line-height: 2em;
+    padding: 0 2em 0 2em;
+    font-size: 50px;
+    text-align: center;
+    display: inline-block;
+  }
+  &__details {
+    color: red;
+    line-height: 2em;
+    font-size: 14px;
+    display: inline-block;
+    padding: 20px;
+  }
+}
