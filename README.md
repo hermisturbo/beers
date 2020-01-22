@@ -17,3 +17,6 @@ Since the focus of this assessment is not the design, It may not be pretty enoug
 ## To build:
 
 `$ npm build` or `yarn build`
+
+
+Any doubt you may have, please let me know.
